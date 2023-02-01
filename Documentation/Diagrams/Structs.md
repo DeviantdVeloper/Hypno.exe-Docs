@@ -15,6 +15,13 @@ class FHCTag~struct~{
 class FHCTagContainer~struct~{
     <<Single User Definable Tag>>
     +TArray~FHCTag~ Tags
+    +void AddTag(FHCTag InTag)
+    +void AddTags(TArray~FHCTag~ InTags)
+    +void RemoveTag(FHCTag TagToRemove)
+    +void RemoveTags(TArray~FHCTag~ TagsToRemove)
+    +static FString ToStringList(const FHCTagContainer& Target)
+    +static FHCTagContainer FromStringList(FString StringList)
+
 }
 
 class FHCBaseInfo~struct~{
@@ -24,7 +31,7 @@ class FHCBaseInfo~struct~{
     +FText Description
     +FGameplayTagContainer Platforms
     +FHCTagContainer Tags
-    +TSoftObjectPtr<UTexture2D> Image
+    +TSoftObjectPtr~UTexture2D~ Image
     +UTexture2D* GetImage()
     +void SetImage(UTexture2D* InImage)
 }
