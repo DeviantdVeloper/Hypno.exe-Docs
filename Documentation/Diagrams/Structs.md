@@ -1,3 +1,7 @@
+```mermaid
+classDiagram
+direction LR
+
 class FHCElementSettingsBase~struct~{
     <<Base Class for Element Settings>>
     +FGuid Id
