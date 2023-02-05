@@ -3,9 +3,9 @@ Hypno.exe in 2023!
 
 ---
 
-Read on: [Subscribe Star](https://subscribestar.adult/posts/765873) | [Itch.io](https://d-dev.itch.io/) | [Tumblr](https://www.tumblr.com/) | [GitHub](https://github.com/DeviantdVeloper/Hypno.exe)
+Read on: [Subscribe Star](https://subscribestar.adult/posts/765873) | [Itch.io](https://itch.io/blog/485829/hypnoexe-in-2023) | [Tumblr](https://www.tumblr.com/deviant-dveloper/hypnoexe-in-2023/) | [GitHub](https://github.com/DeviantdVeloper/Hypno.exe/blob/main/Blog/2023/02-05:%20Hypno.exe%20in%202023.md)
 
-See all my stuff on [AllMyLinks](https://github.com/DeviantdVeloper/Hypno.exe)
+See all my stuff on [AllMyLinks](https://allmylinks.com/d-dev)
 
 ---
 
